@@ -12,3 +12,15 @@ Python · Alteryx · ETL Pipeline · Machine Learning · Data Validation · REST
 - Interactive dashboard for non-technical stakeholders
 
 ## Pipeline
+## Results
+| Metric | Before | After |
+|--------|--------|-------|
+| Accuracy | Baseline | +25% |
+| Processing Time | Manual | Automated |
+| Dataset Size | 50 records | 200+ records |
+
+## Setup
+```bash
+pip install -r requirements.txt
+python recommend.py
+```
